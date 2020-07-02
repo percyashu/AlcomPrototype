@@ -1,6 +1,11 @@
-Welcome to AlcomPrototype
+AlcomPrototype
+========
+
+AlcomPrototype is a video conferencing android that will permit video conferencing for everybody even with people with hearing impairment by providing an interface that recognises sign language.
+This will be achieved using tokbox api for video conferencing and sign language recognition api. 
 
 Installation
+=======
 
 Clone the AlcomPrototype
 
